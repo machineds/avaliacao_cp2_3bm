@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    text-align: center;
+    color:white;
+}
+section{
+    background-color: azure;
+    width:180px;
+    padding: 10px 10px 10px 10px;
+    margin:auto;
+    border-radius: 10px;
+    border-style: groove;
+    color:black;
+}
+
+label{
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    margin:auto;
+    margin-top:10px;
+    font-size: 14pt;
+    font-weight: bold;
+    border-color: black;
+    border-style: groove;
+}
