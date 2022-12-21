@@ -1,2 +1,2 @@
 ### Trabalho avaliativo
-# Alunos: Carlos Cruz e Rafael Gomes
+# Alunos: Carlos Cruz e Rafael G. Neto.
